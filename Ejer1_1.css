@@ -1,0 +1,6 @@
+body{
+    background: red;
+    background-image: url(https://tmssl.akamaized.net/images/foto/normal/zlatan-ibrahimovic-ac-mailand-1603008323-49388.jpg?lm=1603008348);
+    background-size: cover;/*ya no sale divida en 2 columnas la imagem*/
+    background-repeat: no-repeat; /*Haceq la imagen no se repita */
+}

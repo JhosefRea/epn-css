@@ -1,0 +1,19 @@
+.content{
+    width: 50 px;
+    height: 50 px;
+    padding: 10px 30px 50px 10px;
+    background: gray url(https://imagenes.elcomercio.com/files/article_main/uploads/2020/08/28/5f490cb122c82.jpeg) 
+        100px no-repeat;
+    background-size: contain;
+    border-radius: 10px;
+}
+/*.content{
+    width: 50 px;
+    height: 50 px;
+    padding: 10px 30px 50px 10px;
+    background: gray;
+    background-image: url(https://imagenes.elcomercio.com/files/article_main/uploads/2020/08/28/5f490cb122c82.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: 100px;
+}*/

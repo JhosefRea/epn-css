@@ -1,0 +1,21 @@
+body{
+    color: blue;
+}
+
+ul li,
+ol li{
+    color: green;
+}
+
+body ul li{
+    color: red;
+}
+
+ol li:nth-child(2){
+    background-color: green;
+}
+
+table tr:nth-child(even){/*Pinta de color a las filas impares de tabla
+    Las filas se cuentan desde la posición cero*/
+    background-color: yellow;
+}
